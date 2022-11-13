@@ -1,1 +1,1 @@
-Fediverse: [@lenz@fosstodon.org](https://fosstodon.org/@lenz)
+Fediverse: <a rel="me" href="https://fosstodon.org/@lenz">Mastodon</a>
